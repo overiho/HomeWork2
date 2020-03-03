@@ -379,11 +379,11 @@ let answer2 = prompt("Имя нашего лектора по JS?");
 let answer3 = +prompt("tg45° = ?");
 let rate = 0;
 switch (true) {
-    case (answer1 == 44): {
+    case (answer1 == 24): {
         rate += 3
         break;
     }
-    case (answer1 == 8): {
+    case (answer1 == 44): {
         rate += 0
         break;
     }
